@@ -1,6 +1,6 @@
 # Less-supervised learning with knowledge distillation for sperm morphology analysis
 
-This project is the official implementation of the paper "Less-supervised learning with knowledge distillation for sperm morphology analysis".
+This project is the official implementation of the paper ["Less-supervised learning with knowledge distillation for sperm morphology analysis"](https://doi.org/10.1080/21681163.2024.2347978).
 
 ## Configuration
 
